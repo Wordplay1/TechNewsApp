@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechNewsApp</string>
+
+    <!-- No Network Avaliable -->
+    <string name="no_network">No Network Avaliable</string>
+
+    <!-- No News Avaliable -->
+    <string name="no_news">No News Avaliable</string>
+</resources>
